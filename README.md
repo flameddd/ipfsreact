@@ -1,6 +1,13 @@
 ## 此為測試 ipfs + ethereum 以 react 為 ui 的 repo
 ## [build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp](https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e)
 
+## install
+ > npm install
+
+## start
+ > npm start  
+ > visit `localhost:3000`
+
 照我的理解，我玩的步驟應該是。
 1. 先用 remix 部署一個 contract 上去
 2. ipfs 已經指定好 node
