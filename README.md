@@ -7,6 +7,9 @@
 ## start
  > npm start  
  > visit `localhost:3000`
+ 
+### deploy info
+ > 測試時 contract 是部署在 `Rinkeby Test Network`、用的是 `account 1`
 
 照我的理解，我玩的步驟應該是。
 1. 先用 remix 部署一個 contract 上去
