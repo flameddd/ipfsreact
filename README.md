@@ -20,3 +20,8 @@
 另外可以取回 txReceipt 來看。
 
 ![image info](./assets/001.png)
+
+
+## cat
+ 成功用這指令 cat 下來了。
+ > ipfs cat /ipfs/QmUu7vcP62sLriMg61a7FDUwSrMfwXKjuGS27Lf6WqjGoC >test.mp3
